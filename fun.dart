@@ -3,3 +3,5 @@ return_type function_name(parameters){
     return value;
 }
 
+
+function_name(argument_list)
