@@ -5,3 +5,7 @@
 
 
 // function_name(argument_list)
+
+returntype functionName(parameter1,parameter2,...){
+    print("Function")
+}
