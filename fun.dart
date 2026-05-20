@@ -14,3 +14,5 @@
 (parameters;){
 
 }
+
+Set <variable_type> variable_name = {};
