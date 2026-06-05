@@ -24,3 +24,9 @@
 // // body of constructor
 //     }
 // }
+
+
+class Vehicle{
+    late String _model;
+    late int _year;
+}
