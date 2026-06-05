@@ -15,4 +15,12 @@
 
 }
 
-Set <variable_type> variable_name = {};
+// Set <variable_type> variable_name = {};
+
+
+// class ClassName{
+//     // constructor declaration: same as class name
+//     ClassName(){
+// // body of constructor
+//     }
+// }
